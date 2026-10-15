@@ -16,12 +16,12 @@ Skills de tráfego pago para o Claude Code — **Meta Ads** e **Google Ads** —
   então a skill usa o site da Biblioteca.
 
 ## Instalação
-Na pasta onde está este README:
 ```bash
-claude plugin marketplace add ./
+claude plugin marketplace add RaulKlahold/trafego-toolkit
 claude plugin install meta-ads@trafego-toolkit
 claude plugin install google-ads@trafego-toolkit
 ```
+(Ou, a partir de uma cópia local, `claude plugin marketplace add ./` na pasta deste README.)
 Abra uma nova sessão do Claude Code depois de instalar.
 
 Para atualizar depois de editar as skills:
