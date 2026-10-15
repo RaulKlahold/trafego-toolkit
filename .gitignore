@@ -1,0 +1,7 @@
+CONFIG-CONTAS.md
+logs/
+relatorios/
+criativos/
+exports/
+*.csv
+*.xlsx

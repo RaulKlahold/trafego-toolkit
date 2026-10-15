@@ -1,0 +1,21 @@
+{
+  "name": "trafego-toolkit",
+  "owner": { "name": "Raul" },
+  "metadata": {
+    "description": "Toolkit de tráfego pago (Meta Ads + Google Ads) adaptado de ronydrop/ads-toolkit — modo seguro, configurável por cliente."
+  },
+  "plugins": [
+    {
+      "name": "meta-ads",
+      "version": "1.0.0",
+      "source": "./meta",
+      "description": "Meta Ads: performance, sangria, fadiga, rebalance, públicos, concorrência, copy e deploy em rascunho."
+    },
+    {
+      "name": "google-ads",
+      "version": "1.0.0",
+      "source": "./google",
+      "description": "Google Ads: performance, revisão semanal, search terms, RSA, auditoria de copy, orçamento e diagnóstico."
+    }
+  ]
+}
